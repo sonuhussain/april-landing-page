@@ -1,0 +1,13 @@
+.Clock {
+ /*  border: 2px solid black;
+  width: 8%; */
+  float: right;
+  color: white;
+  margin-top: -60px;
+}
+
+/* footer */
+.hussain-link {
+  text-decoration: underline !important;
+}
+
